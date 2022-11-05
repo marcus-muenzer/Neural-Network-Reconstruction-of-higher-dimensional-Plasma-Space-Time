@@ -1,5 +1,7 @@
 # **Neural Network Reconstruction of higher-dimensional Plasma Space-Time**
-This repository allows recovering full higher-dimensional (2D space + 1D time) Plasma State Vectors from partial samples along linear trajectories, mimicking spacecraft observations in space. This is approached by injecting the ideal Magnetohydrodynamics Equations into different kinds of Neural Networks to create innovative Physics-Informed Neural Networks while parallelly applying novel curriculum training approaches.
+This repository allows recovering full higher-dimensional (2D space + 1D time) Plasma State Vectors from partial samples along linear trajectories, mimicking spacecraft observations in space. This is approached by injecting the ideal Magnetohydrodynamics Equations into different kinds of Neural Networks to create innovative Physics-Informed Neural Networks while parallelly applying novel curriculum training approaches.<br />
+
+Please cite the code using this DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7294589.svg)](https://doi.org/10.5281/zenodo.7294589)
 
 ## **Data**
 The data has to be of Hierarchical Data Format Version 5 (HDF5, .h5).<br />
